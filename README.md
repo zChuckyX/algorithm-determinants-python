@@ -1,1 +1,1 @@
-"# algorithm-determinats-python" 
+"# algorithm-determinants-python" 
