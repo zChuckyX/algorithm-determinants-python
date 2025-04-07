@@ -2,7 +2,8 @@
 
 > Algorithm การหาค่า Determinants ของเมทริกซ์ด้วยภาษา Python
 
-##📜 License
+## 📜 License
+
 This project is open-source under the MIT License. Let me know if you need any modifications! 🚀
 
 ## ⚙️ Installation
