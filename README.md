@@ -18,3 +18,4 @@ algorithm-determinants-python/
 ```bash
 git clone https://github.com/zChuckyX/algorithm-determinants-python.git
 cd algorithm-determinants-python
+python main.py
