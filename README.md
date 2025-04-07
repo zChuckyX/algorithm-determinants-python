@@ -6,16 +6,15 @@
 
 This project is open-source under the MIT License. Let me know if you need any modifications! 🚀
 
-
 ## 🗺️ Project Structure
 
 ```bash
 algorithm-determinants-python/
 ├── main.py # Main File
 
+
 ## ⚙️ Installation
 
 ```bash
 git clone https://github.com/zChuckyX/algorithm-determinants-python.git
 cd algorithm-determinants-python
-code .
