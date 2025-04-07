@@ -11,6 +11,7 @@ This project is open-source under the MIT License. Let me know if you need any m
 ```bash
 algorithm-determinants-python/
 ├── main.py  # Main file
+```
 
 ## ⚙️ Installation
 
