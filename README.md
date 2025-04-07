@@ -1,6 +1,6 @@
 # 🧮 Algorithm - Calculate Determinants with Python
 
-> Algorithm สำหรับการหาค่า Determinants ของเมทริกซ์ด้วยภาษา Python
+> Algorithm สำหรับการหาค่า Determinant ของเมทริกซ์ด้วยภาษา Python
 
 ## 📜 License
 
@@ -13,7 +13,8 @@ algorithm-determinants-python/
 ├── main.py  # Main file
 ```
 
-## ⚙️ Installation & 📂 Setup
+## ⚙️ Installation 
+## 📂 Setup
 To run this Project:
 
 ```bash
