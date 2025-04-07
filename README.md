@@ -1,6 +1,6 @@
-# Project Name
+# algorithm-determinants-python
 
-> คำอธิบายสั้น ๆ เกี่ยวกับโปรเจกต์นี้คืออะไร ทำอะไรได้
+> Algorithm การหาค่า Determinants ของเมทริกซ์ด้วยภาษา Python
 
 ## 📝 Table of Contents
 
@@ -35,7 +35,6 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-npm install
-npm run dev
+git clone https://github.com/zChuckyX/algorithm-determinants-python.git
+cd algorithm-determinants-python
+code .
