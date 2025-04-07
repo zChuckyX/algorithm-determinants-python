@@ -14,7 +14,6 @@ algorithm-determinants-python/
 ```
 
 ## ⚙️ Installation 
-## 📂 Setup
 To run this Project:
 
 ```bash
