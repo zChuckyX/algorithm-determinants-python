@@ -10,7 +10,9 @@ This project is open-source under the MIT License. Let me know if you need any m
 
 ```bash
 algorithm-determinants-python/
-└── main.py  # Main file
+├── README.md          # Documentation file explaining how to use the project
+├── LICENSE            # File containing the license (MIT License)   
+└── main.py            # Main C file
 ```
 
 ## ⚙️ Installation 
